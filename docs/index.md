@@ -15,8 +15,8 @@ Since 2018, Crucible has effectively enabled large-scale Department of Defense (
 
 ### Addressing Persistent Challenges
 Cyber range administrators confront persistent challenges:
-* manual configurations leads to high-labor costs and excessive human error—with limited scalability and automation
-* proprietary range software leads to vendor lock-in and increasing costs
+* Manual configurations leads to high-labor costs and excessive human error—with limited scalability and automation
+* Proprietary range software leads to vendor lock-in and increasing costs
 CMU SEI developed Crucible in response to a decade of experiencing these frictions.
 
 ### Automating Cyber Experimentation and Exercise
@@ -58,7 +58,7 @@ Crucible’s [**Blueprint**](blueprint/index.md) application enables the collabo
 ## Animating Activity
 [![GHOSTS Logo](assets/img/ghosts_new.png){: style="height:75px;width:75px"}](https://cmu-sei.github.io/GHOSTS/)Crucible’s [**GHOSTS**](https://cmu-sei.github.io/GHOSTS/) Non-Player Character (NPC) automation and orchestration framework deploys and shapes the activities of NPCs using Generative AI models.
 
-Open-Source Integrations:
+### Open-Source Integrations:
 * **Ollama**, a platform designed to run llama 2, mistral, and other open source large language models locally on your machine.
 
 ## Evaluating Threats
